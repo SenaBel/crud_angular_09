@@ -24,6 +24,21 @@
       "name": "Geladeira",
       "price": "1912.99",
       "id": 5
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 158.55,
+      "id": 6
+    },
+    {
+      "name": "Veio do Front-Ende",
+      "price": "150.55",
+      "id": 7
+    },
+    {
+      "name": "Testando condicional",
+      "price": "120",
+      "id": 8
     }
   ]
 }
